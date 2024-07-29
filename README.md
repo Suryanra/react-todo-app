@@ -1,7 +1,7 @@
 # Todo List Application
 
 ## Overview
-This is a frontend Todo List application built using React/Next.js. It includes features like creating, updating, marking as done, searching tasks, and displaying tasks in an expandable list format.
+This is a frontend Todo List application built using ReactJS.It includes features like creating, updating, marking as done, searching tasks, and displaying tasks in an expandable list format.
 
 ## System Design
 - **Components**:
