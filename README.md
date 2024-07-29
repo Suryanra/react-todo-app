@@ -21,5 +21,6 @@ This is a frontend Todo List application built using ReactJS.It includes feature
 ## Setup and Run
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone (https://github.com/Suryanra/todoapp-with-reactjs.git)
    cd todo-app
+   npm start
