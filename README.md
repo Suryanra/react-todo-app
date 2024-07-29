@@ -19,7 +19,6 @@ This is a frontend Todo List application built using ReactJS.It includes feature
 - **Expandable List**: Tasks can be expanded to show description and last update timestamp.
 
 ## Setup and Run
-1. Clone the repository:
    ```bash
    git clone (https://github.com/Suryanra/todoapp-with-reactjs.git)
    cd todo-app
